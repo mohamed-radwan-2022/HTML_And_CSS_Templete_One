@@ -453,7 +453,7 @@ header .container .links ul li:hover a{
 .contact .container .info a{
     text-decoration: none;
     color: var(--mainColor);
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 800;
     margin-bottom: 20px;
     display: inline-block;
